@@ -15,6 +15,7 @@ The Convert child Roof Tax Savings theme
 
 = 1.1 =
 * Updater
+* Editor Styles
 
 = 1.0 =
 * First Realease

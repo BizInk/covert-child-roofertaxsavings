@@ -1,8 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Martel+Sans:wght@200;300;400;600;700;800;900&display=swap');
+
 .wp-caption {
   max-width: 100%;
 }
 p {
   color: #03244d;
+  font-family: "Martel Sans", Helvetica, Arial, sans-serif;
 }
 h1,
 h2,
