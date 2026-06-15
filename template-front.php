@@ -19,5 +19,3 @@
 <?php luca()->getModule('fixed-price-packages')->renderBlock('front-packages', 'default', ['wrapper' => 'section section-frontPackages', 'container' => true]); ?>
 
 <?php luca()->getModule('testimonials')->renderBlock('front-testimonials', 'default', ['wrapper' => 'section section-frontTestimonials', 'container' => true]); ?>
-
-
